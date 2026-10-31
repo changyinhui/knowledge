@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="mnlvDSAwxYC3faU4sW1B">
+    <mxGraphModel dx="719" dy="1638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HlGAVS_2VZmsPfi4pScx-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="HlGAVS_2VZmsPfi4pScx-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="前额叶皮层" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="oOliSnVjv6cGdnCN37WW-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="DMN" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="oOliSnVjv6cGdnCN37WW-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="谷氨酸&lt;br&gt;当大脑长时间处于纠结、权衡、抑制冲动等密集念头中时，外侧前额叶皮层会大量堆积一种神经递质——&lt;b&gt;谷氨酸（Glutamate）&lt;/b&gt;。" vertex="1">
+          <mxGeometry height="110" width="160" x="150" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="oOliSnVjv6cGdnCN37WW-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="杏仁核（Amygdala）与下丘脑" vertex="1">
+          <mxGeometry height="80" width="160" x="150" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="oOliSnVjv6cGdnCN37WW-14" edge="1" parent="1" source="oOliSnVjv6cGdnCN37WW-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="oOliSnVjv6cGdnCN37WW-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oOliSnVjv6cGdnCN37WW-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="任务正网络（TPN）" vertex="1">
+          <mxGeometry height="60" width="120" x="600" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="oOliSnVjv6cGdnCN37WW-8" edge="1" parent="1" source="oOliSnVjv6cGdnCN37WW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="oOliSnVjv6cGdnCN37WW-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oOliSnVjv6cGdnCN37WW-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="我们首先必须理解一个最核心的底层困境：&lt;b&gt;为什么你越是在脑子里命令自己“别想了，快去干活”，你的内耗反而越严重？&lt;/b&gt;" vertex="1">
+          <mxGeometry height="90" width="230" x="790" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="oOliSnVjv6cGdnCN37WW-7" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="当你试图用“念头”去压制“念头”时，大脑为了监控“我有没有在胡思乱想”，反而需要激活更多与自我参照相关的神经回路——而这恰恰是 DMN 的大本营（内侧前额叶皮层 mPFC 和后扣带皮层 PCC）。&lt;b&gt;用思维对抗思维，本质上是在给 DMN 添柴加火。&lt;/b&gt;" vertex="1">
+          <mxGeometry height="110" width="230" x="790" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="oOliSnVjv6cGdnCN37WW-11" edge="1" parent="1" source="oOliSnVjv6cGdnCN37WW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.408;entryY=1.019;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="oOliSnVjv6cGdnCN37WW-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oOliSnVjv6cGdnCN37WW-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="SN&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="481" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="oOliSnVjv6cGdnCN37WW-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;p&gt;2008 年，斯坦福大学神经科学家 Vinod Menon 提出了著名的“三网络模型”&lt;/p&gt;&lt;ol start=&quot;1&quot;&gt;&lt;li&gt;&lt;p&gt;默认模式网络（DMN）&lt;b&gt;与&lt;/b&gt;任务正网络（TPN，又称中央执行网络 CEN）&lt;b&gt;在神经解剖学上是&lt;/b&gt;“相互拮抗”（Anti-correlated）的——就像一个跷跷板，一个高负荷运转，另一个就会被物理性抑制。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;但重点在于：&lt;b&gt;DMN 和 TPN 之间无法直接互相切换，它们中间必须经过一个“物理总开关”——突显网络（Salience Network, 简称 SN，核心节点为前脑岛 AI 和前扣带回 dACC）。&lt;/b&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;" vertex="1">
+          <mxGeometry height="180" width="430" x="360" y="-170" as="geometry" />
+        </mxCell>
+        <mxCell id="oOliSnVjv6cGdnCN37WW-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="一、感官与生理劫持法：强行触发“突显网络（SN）”物理扳机。&lt;br&gt;二、躯体冷刺激与高频本体感觉输入（Cold/Proprioceptive Shock）&lt;br&gt;三、 动作启动降维法：绕过背外侧前额叶的“算力门槛”&lt;br&gt;四、 神经重塑法：训练前额叶对 DMN 的“长期制动能力”" vertex="1">
+          <mxGeometry height="190" width="220" x="110" y="-30" as="geometry" />
+        </mxCell>
+        <mxCell id="oOliSnVjv6cGdnCN37WW-13" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="&lt;meta charset=&quot;utf-8&quot;&gt;背外侧前额叶皮层（dlPFC）" vertex="1">
+          <mxGeometry height="60" width="120" x="600" y="300" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
